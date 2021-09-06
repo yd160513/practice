@@ -7,7 +7,7 @@
       @change="getImage"
     >
     <br />
-    <img :src="imageURL" alt="" srcset="">
+    <img :src="imageURL" alt="">
   </div>
 </template>
 
